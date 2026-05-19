@@ -51,3 +51,8 @@ MobileNetV2 achieved the highest performance, showing strong potential for medic
 1. Open the notebook in Jupyter or Google Colab
 2. Install required libraries
 3. Run all cells step-by-step
+
+## 👨‍🎓 Author
+Md Shoab Siddiq 
+25026645
+MSc Student – Ai and Data science
